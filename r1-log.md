@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Jessie]
+# #100DaysOfCode Log - Round 1 - Jessie
 
-The log of my #100DaysOfCode challenge. Started on [January 1, 2021].
+The log of my #100DaysOfCode challenge. Started on January 1, 2021.
 
 ## Log
 
@@ -12,3 +12,6 @@ Completed remainder of Regular Expressions section (challenges 23-33).
 
 ### R1D3
 Completed GitHub tutorial, created hello-world repository, readme-edits branch, committed changes to branch, created pull request, merged branches.
+Completed Debugging section (challenges 1-12).
+
+### R1D4
