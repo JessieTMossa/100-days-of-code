@@ -15,3 +15,6 @@ Completed GitHub tutorial, created hello-world repository, readme-edits branch, 
 Completed Debugging section (challenges 1-12).
 
 ### R1D4
+Started Basic Data Structures sections, completed challenges 1-10 of 20.
+
+### R1D5
