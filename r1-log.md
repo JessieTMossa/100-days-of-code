@@ -18,3 +18,6 @@ Completed Debugging section (challenges 1-12).
 Started Basic Data Structures sections, completed challenges 1-10 of 20.
 
 ### R1D5
+Continued Basic Data Structures, completed challenges 11-17 of 20.
+
+### R1D6
